@@ -1,5 +1,5 @@
 # Shuham's Digital garden
 
 ## Credits & Thanks
--  See [Credits page](https://jekyll-garden.github.io/credits)
+-  [Credits for theme](https://jekyll-garden.github.io)
 

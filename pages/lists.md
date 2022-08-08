@@ -6,3 +6,9 @@ feedformat: row
 ---
 
 List of all list!
+
+Techincal Books
+
+Non-Technical Books
+
+Podcasts
