@@ -2,7 +2,7 @@
 title: Tools
 feed: hide
 date: 08-08-2022
-permalink: /tools
+permalink: /list/tools
 format: list
 ---
 

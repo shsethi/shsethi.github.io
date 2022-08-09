@@ -5,7 +5,7 @@ date: 09-08-2022
 ---
 
 
-I have been using [[VS-Code]] extensively since last month or so.
+I have been using [[VS-Code]]VS-code extensively since last month or so.
 The feature that  has made me really excited is ability to work with repos remotely
 
 You can open any repo in VS Code without cloning it.

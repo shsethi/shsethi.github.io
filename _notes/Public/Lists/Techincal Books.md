@@ -2,7 +2,7 @@
 title: Technical Books
 feed: hide
 date: 11-05-2022
-permalink: /technical-books
+permalink: /list/technical-books
 format: list
 ---
 

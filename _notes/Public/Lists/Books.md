@@ -2,7 +2,7 @@
 title: Books
 feed: hide
 date: 01-08-2022
-permalink: /books
+permalink: /list/books
 format: list
 ---
 
