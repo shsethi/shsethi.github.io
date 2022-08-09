@@ -3902,3 +3902,13 @@ a.tag:hover {
     color:(--color-text-sub) !important;
   }
   
+
+  /* CSS for footnotes */
+ 
+  .footnotes  ol li p{
+    font-size: var(--text-xs);
+  }
+
+  .footnotes  ol li {
+    font-size: var(--text-xs);
+  }
