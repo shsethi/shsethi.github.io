@@ -10,3 +10,9 @@ _notes/300 Templates
 .DS_Store
 _notes/.DS_Store
 .vscode/settings.json
+bin/bundle
+bin/htmlbeautifier
+bin/kramdown
+bin/rougify
+bin/safe_yaml
+.bundle/config
