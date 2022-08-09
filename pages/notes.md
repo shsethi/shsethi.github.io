@@ -5,4 +5,5 @@ feedformat: card
 title: Digital Garden
 ---
 
-My Digital garden of notes on topics of interest. These are mix of things i read, listen and have epiphany about.
+My Digital garden is mix of things i read, listen and have epiphany about.
+Here is a collection of essays, notes, and half-baked explorations.
