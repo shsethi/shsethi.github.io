@@ -1,5 +1,5 @@
 ---
-title : New Post
+title : {{title}}
 feed: show
-date : {{DD-MM-YYY}}
+date : {{date:DD-MM-YYYY}}
 ---
