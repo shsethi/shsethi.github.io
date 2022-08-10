@@ -4,7 +4,7 @@ pages/.DS_Store
 pages/tags.md
 _notes/.obsidian
 _notes/Public/.obsidian
-_notes/000 Inbox
+_notes/001 Inbox
 _notes/200 Private
 _notes/300 Templates
 .DS_Store
@@ -16,3 +16,4 @@ bin/kramdown
 bin/rougify
 bin/safe_yaml
 .bundle/config
+_notes/Concepts/Python.md
