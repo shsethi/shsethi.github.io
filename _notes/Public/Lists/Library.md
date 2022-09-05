@@ -11,7 +11,7 @@ format: list
 - Can't Hurt Me - David Goggins - Audiobook
 
  <br>
-## List of books i have read
+## List of books i have read and reccommend
 - [[Sapiens - Yuval Noah Harari]] 
 - [[The Psychology of Money]]
 
