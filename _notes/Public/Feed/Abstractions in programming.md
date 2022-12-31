@@ -1,3 +1,10 @@
+---
+title : Abstractions in programming
+feed: show
+date: 26-09-2022
+---
+
+
 ## abstractions
 The most common theme in software is that of - abstractions.
 
